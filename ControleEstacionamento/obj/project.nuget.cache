@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cvfSv0tY4rM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\renat\\OneDrive\\Documentos\\Renato\\sistema-estacionamento-.NET\\ControleEstacionamento\\ControleEstacionamento.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\renat\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}

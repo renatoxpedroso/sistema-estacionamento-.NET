@@ -1,0 +1,14 @@
+C:\Users\renat\OneDrive\Documentos\Renato\sistema-estacionamento-.NET\ControleEstacionamento\obj\Debug\net8.0\ControleEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renat\OneDrive\Documentos\Renato\sistema-estacionamento-.NET\ControleEstacionamento\obj\Debug\net8.0\ControleEstacionamento.AssemblyInfoInputs.cache
+C:\Users\renat\OneDrive\Documentos\Renato\sistema-estacionamento-.NET\ControleEstacionamento\obj\Debug\net8.0\ControleEstacionamento.AssemblyInfo.cs
+C:\Users\renat\OneDrive\Documentos\Renato\sistema-estacionamento-.NET\ControleEstacionamento\obj\Debug\net8.0\ControleEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\renat\OneDrive\Documentos\Renato\sistema-estacionamento-.NET\ControleEstacionamento\bin\Debug\net8.0\ControleEstacionamento.exe
+C:\Users\renat\OneDrive\Documentos\Renato\sistema-estacionamento-.NET\ControleEstacionamento\bin\Debug\net8.0\ControleEstacionamento.deps.json
+C:\Users\renat\OneDrive\Documentos\Renato\sistema-estacionamento-.NET\ControleEstacionamento\bin\Debug\net8.0\ControleEstacionamento.runtimeconfig.json
+C:\Users\renat\OneDrive\Documentos\Renato\sistema-estacionamento-.NET\ControleEstacionamento\bin\Debug\net8.0\ControleEstacionamento.dll
+C:\Users\renat\OneDrive\Documentos\Renato\sistema-estacionamento-.NET\ControleEstacionamento\bin\Debug\net8.0\ControleEstacionamento.pdb
+C:\Users\renat\OneDrive\Documentos\Renato\sistema-estacionamento-.NET\ControleEstacionamento\obj\Debug\net8.0\ControleEstacionamento.dll
+C:\Users\renat\OneDrive\Documentos\Renato\sistema-estacionamento-.NET\ControleEstacionamento\obj\Debug\net8.0\refint\ControleEstacionamento.dll
+C:\Users\renat\OneDrive\Documentos\Renato\sistema-estacionamento-.NET\ControleEstacionamento\obj\Debug\net8.0\ControleEstacionamento.pdb
+C:\Users\renat\OneDrive\Documentos\Renato\sistema-estacionamento-.NET\ControleEstacionamento\obj\Debug\net8.0\ControleEstacionamento.genruntimeconfig.cache
+C:\Users\renat\OneDrive\Documentos\Renato\sistema-estacionamento-.NET\ControleEstacionamento\obj\Debug\net8.0\ref\ControleEstacionamento.dll
