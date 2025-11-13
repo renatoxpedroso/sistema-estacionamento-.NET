@@ -12,3 +12,4 @@ C:\Users\renat\OneDrive\Documentos\Renato\sistema-estacionamento-.NET\ControleEs
 C:\Users\renat\OneDrive\Documentos\Renato\sistema-estacionamento-.NET\ControleEstacionamento\obj\Debug\net8.0\ControleEstacionamento.pdb
 C:\Users\renat\OneDrive\Documentos\Renato\sistema-estacionamento-.NET\ControleEstacionamento\obj\Debug\net8.0\ControleEstacionamento.genruntimeconfig.cache
 C:\Users\renat\OneDrive\Documentos\Renato\sistema-estacionamento-.NET\ControleEstacionamento\obj\Debug\net8.0\ref\ControleEstacionamento.dll
+C:\Users\renat\OneDrive\Documentos\Renato\sistema-estacionamento-.NET\ControleEstacionamento\obj\Debug\net8.0\ControleEstacionamento.sourcelink.json
